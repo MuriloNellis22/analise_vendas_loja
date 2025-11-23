@@ -1,0 +1,101 @@
+Data,Produto,Categoria,Preço,Quantidade,Cidade,Pagamento,Avaliação,Total
+2024-04-12,Tênis,Calçados,437.18,3,Curitiba,Dinheiro,5,1311.54
+2024-06-28,Camisa,Roupas,162.61,1,São Paulo,Pix,5,162.61
+2024-04-02,Tênis,Calçados,67.48,3,Recife,Dinheiro,3,202.44
+2024-01-15,Jaqueta,Roupas,186.47,4,São Paulo,Dinheiro,5,745.88
+2024-04-16,Calça,Roupas,291.69,4,São Paulo,Dinheiro,1,1166.76
+2024-03-12,Calça,Roupas,196.99,2,Curitiba,Dinheiro,4,393.98
+2024-01-21,Camisa,Roupas,422.54,1,São Paulo,Dinheiro,1,422.54
+2024-04-12,Boné,Acessórios,172.19,3,Rio de Janeiro,Cartão,1,516.57
+2024-05-01,Camisa,Roupas,484.36,4,Rio de Janeiro,Pix,5,1937.44
+2024-03-15,Boné,Acessórios,255.77,4,Belo Horizonte,Dinheiro,4,1023.08
+2024-03-28,Calça,Roupas,428.91,3,Recife,Pix,4,1286.73
+2024-04-26,Camisa,Roupas,137.47,2,São Paulo,Pix,4,274.94
+2024-04-09,Relógio,Acessórios,235.11,4,São Paulo,Dinheiro,3,940.44
+2024-04-13,Jaqueta,Roupas,364.78,1,Curitiba,Cartão,5,364.78
+2024-05-31,Tênis,Calçados,112.26,4,Rio de Janeiro,Dinheiro,4,449.04
+2024-05-10,Boné,Acessórios,109.74,1,Recife,Cartão,3,109.74
+2024-05-29,Relógio,Acessórios,486.29,3,Belo Horizonte,Pix,2,1458.87
+2024-02-22,Tênis,Calçados,371.57,1,Rio de Janeiro,Cartão,2,371.57
+2024-01-02,Tênis,Calçados,68.48,3,Belo Horizonte,Cartão,3,205.44
+2024-03-28,Camisa,Roupas,229.47,1,Curitiba,Cartão,3,229.47
+2024-06-06,Tênis,Calçados,245.08,3,Curitiba,Pix,5,735.24
+2024-02-07,Jaqueta,Roupas,384.82,1,São Paulo,Pix,5,384.82
+2024-05-09,Relógio,Acessórios,162.89,2,Recife,Cartão,2,325.78
+2024-01-21,Tênis,Calçados,132.95,1,Belo Horizonte,Cartão,4,132.95
+2024-06-09,Camisa,Roupas,86.39,1,Rio de Janeiro,Dinheiro,2,86.39
+2024-02-27,Jaqueta,Roupas,242.74,2,Curitiba,Cartão,4,485.48
+2024-01-22,Calça,Roupas,359.82,4,São Paulo,Dinheiro,4,1439.28
+2024-03-29,Relógio,Acessórios,76.19,4,São Paulo,Cartão,5,304.76
+2024-02-18,Tênis,Calçados,461.85,1,Belo Horizonte,Dinheiro,1,461.85
+2024-02-28,Camisa,Roupas,249.06,2,Curitiba,Pix,1,498.12
+2024-06-18,Calça,Roupas,157.9,1,Recife,Cartão,3,157.9
+2024-01-15,Calça,Roupas,92.24,3,Curitiba,Cartão,5,276.72
+2024-06-23,Boné,Acessórios,132.29,3,Belo Horizonte,Cartão,4,396.87
+2024-02-20,Jaqueta,Roupas,470.58,1,Belo Horizonte,Cartão,1,470.58
+2024-04-17,Tênis,Calçados,337.22,4,Curitiba,Dinheiro,4,1348.88
+2024-02-24,Camisa,Roupas,282.51,4,Belo Horizonte,Cartão,1,1130.04
+2024-03-04,Boné,Acessórios,345.7,1,Curitiba,Pix,1,345.7
+2024-05-10,Jaqueta,Roupas,246.05,1,Rio de Janeiro,Pix,1,246.05
+2024-02-20,Boné,Acessórios,378.52,3,Curitiba,Cartão,5,1135.56
+2024-05-14,Relógio,Acessórios,71.47,4,Curitiba,Pix,2,285.88
+2024-01-21,Jaqueta,Roupas,304.72,1,Belo Horizonte,Cartão,4,304.72
+2024-03-13,Jaqueta,Roupas,121.39,3,Belo Horizonte,Cartão,5,364.17
+2024-06-15,Tênis,Calçados,104.07,4,São Paulo,Pix,5,416.28
+2024-01-18,Jaqueta,Roupas,203.85,2,São Paulo,Cartão,5,407.7
+2024-05-11,Boné,Acessórios,91.31,3,Rio de Janeiro,Pix,5,273.93
+2024-03-29,Jaqueta,Roupas,92.37,4,São Paulo,Dinheiro,5,369.48
+2024-02-29,Tênis,Calçados,190.14,4,Curitiba,Cartão,3,760.56
+2024-01-14,Tênis,Calçados,490.78,3,Belo Horizonte,Dinheiro,4,1472.34
+2024-01-09,Relógio,Acessórios,128.9,2,São Paulo,Pix,5,257.8
+2024-03-30,Boné,Acessórios,57.72,3,São Paulo,Dinheiro,4,173.16
+2024-02-22,Calça,Roupas,393.51,4,Rio de Janeiro,Dinheiro,3,1574.04
+2024-05-09,Calça,Roupas,413.11,1,Rio de Janeiro,Pix,3,413.11
+2024-03-24,Jaqueta,Roupas,205.84,1,Curitiba,Dinheiro,4,205.84
+2024-04-01,Relógio,Acessórios,259.1,3,Belo Horizonte,Dinheiro,1,777.3
+2024-04-20,Camisa,Roupas,342.4,4,Rio de Janeiro,Pix,2,1369.6
+2024-06-20,Jaqueta,Roupas,71.63,1,São Paulo,Dinheiro,1,71.63
+2024-01-08,Relógio,Acessórios,477.12,4,Belo Horizonte,Pix,1,1908.48
+2024-06-23,Boné,Acessórios,449.01,3,Belo Horizonte,Dinheiro,1,1347.03
+2024-02-04,Boné,Acessórios,167.4,1,São Paulo,Pix,5,167.4
+2024-03-21,Boné,Acessórios,56.89,4,Rio de Janeiro,Pix,3,227.56
+2024-06-12,Boné,Acessórios,470.05,1,São Paulo,Dinheiro,1,470.05
+2024-02-19,Boné,Acessórios,275.47,3,Belo Horizonte,Dinheiro,3,826.41
+2024-04-13,Relógio,Acessórios,292.72,4,Recife,Dinheiro,4,1170.88
+2024-05-11,Relógio,Acessórios,357.78,1,Recife,Cartão,2,357.78
+2024-01-02,Tênis,Calçados,327.13,3,Curitiba,Cartão,4,981.39
+2024-05-13,Calça,Roupas,474.75,1,São Paulo,Cartão,4,474.75
+2024-02-23,Boné,Acessórios,474.91,1,São Paulo,Pix,5,474.91
+2024-04-15,Camisa,Roupas,440.24,2,Curitiba,Dinheiro,2,880.48
+2024-01-04,Relógio,Acessórios,336.38,2,Curitiba,Pix,4,672.76
+2024-02-23,Camisa,Roupas,410.43,3,Curitiba,Cartão,4,1231.29
+2024-05-25,Camisa,Roupas,354.73,2,Belo Horizonte,Dinheiro,2,709.46
+2024-02-13,Camisa,Roupas,308.02,3,São Paulo,Pix,2,924.06
+2024-06-10,Tênis,Calçados,107.83,2,Belo Horizonte,Dinheiro,4,215.66
+2024-01-14,Relógio,Acessórios,415.04,1,Curitiba,Pix,2,415.04
+2024-04-04,Camisa,Roupas,419.29,3,São Paulo,Dinheiro,4,1257.87
+2024-02-17,Boné,Acessórios,331.67,3,Belo Horizonte,Cartão,4,995.01
+2024-01-15,Jaqueta,Roupas,419.19,1,Belo Horizonte,Cartão,5,419.19
+2024-02-09,Camisa,Roupas,343.17,3,Curitiba,Dinheiro,1,1029.51
+2024-03-22,Tênis,Calçados,143.01,3,São Paulo,Pix,4,429.03
+2024-04-20,Relógio,Acessórios,173.28,2,Curitiba,Cartão,3,346.56
+2024-02-22,Tênis,Calçados,146.57,3,São Paulo,Cartão,1,439.71
+2024-01-24,Camisa,Roupas,219.77,4,Recife,Cartão,1,879.08
+2024-06-02,Relógio,Acessórios,67.53,1,Rio de Janeiro,Dinheiro,1,67.53
+2024-05-03,Jaqueta,Roupas,328.21,2,Rio de Janeiro,Dinheiro,5,656.42
+2024-02-10,Camisa,Roupas,201.45,2,Rio de Janeiro,Pix,4,402.9
+2024-06-05,Tênis,Calçados,345.08,4,Curitiba,Pix,5,1380.32
+2024-01-15,Calça,Roupas,223.43,1,Recife,Pix,4,223.43
+2024-02-14,Boné,Acessórios,356.73,1,São Paulo,Dinheiro,5,356.73
+2024-03-05,Tênis,Calçados,203.28,2,Belo Horizonte,Dinheiro,5,406.56
+2024-03-29,Relógio,Acessórios,167.31,3,São Paulo,Pix,3,501.93
+2024-03-11,Camisa,Roupas,273.22,2,Belo Horizonte,Pix,5,546.44
+2024-01-09,Boné,Acessórios,361.8,1,São Paulo,Dinheiro,2,361.8
+2024-03-28,Camisa,Roupas,206.75,4,Recife,Pix,3,827.0
+2024-05-08,Relógio,Acessórios,471.49,2,Belo Horizonte,Cartão,5,942.98
+2024-05-15,Camisa,Roupas,67.63,1,Curitiba,Dinheiro,1,67.63
+2024-03-03,Calça,Roupas,238.08,2,São Paulo,Pix,2,476.16
+2024-05-18,Boné,Acessórios,485.41,3,São Paulo,Dinheiro,2,1456.23
+2024-03-21,Boné,Acessórios,296.59,2,Belo Horizonte,Cartão,2,593.18
+2024-05-15,Relógio,Acessórios,240.56,2,Curitiba,Dinheiro,3,481.12
+2024-06-11,Calça,Roupas,305.83,1,Curitiba,Dinheiro,5,305.83
