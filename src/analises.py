@@ -26,8 +26,13 @@ def faturamento_por_categoria(df):
     )
 
 
-def formas_pagamento(df):
-    return df['Pagamento'].value_counts()
+def pagamento_por_cidade(df):
+
+    return (
+        df.groupby(['Cidade', 'Pagamento'])
+          .size()
+          .unstack(fill_value=0)
+    )
 
 
 def vendas_mensais(df):

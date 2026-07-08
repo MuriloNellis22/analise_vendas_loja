@@ -14,6 +14,7 @@ def grafico_produtos(produtos):
     plt.tight_layout()
     plt.show()
 
+
 def grafico_cidades(cidades):
 
     cidades.plot(
@@ -43,16 +44,19 @@ def grafico_categoria(categorias):
     plt.tight_layout()
     plt.show()
 
-def grafico_pagamentos(pagamentos):
+
+def grafico_pagamentos_cidade(pagamentos):
 
     pagamentos.plot(
-        kind='pie',
-        autopct='%1.1f%%',
-        startangle=90
+        kind='bar',
+        figsize=(10,6)
     )
 
-    plt.title('Distribuição das Formas de Pagamento')
-    plt.ylabel('')
+    plt.title('Formas de Pagamento por Cidade')
+    plt.xlabel('Cidade')
+    plt.ylabel('Quantidade de Vendas')
+    plt.xticks(rotation=45)
+    plt.legend(title='Forma de Pagamento')
     plt.tight_layout()
     plt.show()
 
