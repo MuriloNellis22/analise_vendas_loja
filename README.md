@@ -12,20 +12,31 @@ O objetivo deste projeto é analisar os dados de vendas de uma loja fictícia pa
 ## Estrutura do projeto
 
 ```
-projeto_dados/
+analise-vendas/
 │
 ├── data/
 │   └── vendas_loja_ficticia.csv
 │
+├── images/
+│   ├── produtos.png
+│   ├── faturamento_cidade.png
+│   ├── faturamento_categoria.png
+│   ├── pagamentos.png
+│   ├── vendas.png
+│   └── vendas_mensais.png
+│
 ├── src/
+│   ├── __init__.py
 │   ├── carregar_dados.py
 │   ├── limpeza.py
 │   ├── analises.py
 │   └── visualizacao.py
 │
-├── analise_loja.ipynb
+├── analise_vendas.ipynb
+├── README.md
 ├── requirements.txt
-└── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ## Análises realizadas
