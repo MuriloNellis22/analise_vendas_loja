@@ -46,6 +46,20 @@ projeto_dados/
 - Análise da evolução das vendas ao longo do período.
 - Comparação do faturamento entre os meses analisados.
 
+## Exemplos de gráficos
+
+Produtos mais vendidos: ![Produtos mais vendidos](images/produtos.png)
+
+Faturamento por cidade: ![Faturamento por cidade](images/faturamento_cidade.png)
+
+Quantidade de vendas por categoria: ![Faturamento por categoria](images/faturamento_categoria.png)
+
+Formas de pagamento: ![Formas de pagamento](images/pagamentos.png)
+
+Vendas ao longo do tempo: ![Vendas ao longo do tempo](images/vendas.png)
+
+Vendas mensais: ![Vendas mensais](images/vendas_mensais.png)
+
 ## Como executar
 
 Clone o repositório:
