@@ -30,13 +30,6 @@ def formas_pagamento(df):
     return df['Pagamento'].value_counts()
 
 
-def vendas_diarias(df):
-    return (
-        df.groupby('Data')['Total']
-        .sum()
-    )
-
-
 def vendas_mensais(df):
     df = df.copy()
 

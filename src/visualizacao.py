@@ -56,19 +56,6 @@ def grafico_pagamentos(pagamentos):
     plt.tight_layout()
     plt.show()
 
-def grafico_vendas(vendas):
-
-    vendas.plot(
-        figsize=(10,5),
-        color='orange'
-    )
-
-    plt.title('Vendas ao Longo do Tempo')
-    plt.xlabel('Data')
-    plt.ylabel('Faturamento')
-    plt.tight_layout()
-    plt.show()
-
 
 def grafico_vendas_mensais(faturamento_mes):
 

@@ -22,7 +22,6 @@ analise-vendas/
 │   ├── faturamento_cidade.png
 │   ├── faturamento_categoria.png
 │   ├── pagamentos.png
-│   ├── vendas.png
 │   └── vendas_mensais.png
 │
 ├── src/
@@ -46,15 +45,14 @@ analise-vendas/
 - Faturamento por cidade
 - Faturamento por categoria
 - Distribuição das formas de pagamento
-- Evolução das vendas ao longo do tempo
 - Faturamento mensal
 
 ## Principais insights
 
-- Identificação das cidades com maior faturamento.
 - Identificação dos produtos mais vendidos.
+- Identificação das cidades com maior faturamento.
 - Comparação do faturamento entre categorias.
-- Análise da evolução das vendas ao longo do período.
+- Comparação das formas de pagamento mais utilizadas.
 - Comparação do faturamento entre os meses analisados.
 
 ## Exemplos de gráficos
@@ -66,8 +64,6 @@ Faturamento por cidade: ![Faturamento por cidade](images/faturamento_cidade.png)
 Quantidade de vendas por categoria: ![Faturamento por categoria](images/faturamento_categoria.png)
 
 Formas de pagamento: ![Formas de pagamento](images/pagamentos.png)
-
-Vendas ao longo do tempo: ![Vendas ao longo do tempo](images/vendas.png)
 
 Vendas mensais: ![Vendas mensais](images/vendas_mensais.png)
 
