@@ -65,7 +65,7 @@ Quantidade de vendas por categoria: ![Faturamento por categoria](images/faturame
 
 Formas de pagamento: ![Formas de pagamento](images/pagamentos.png)
 
-Vendas mensais: ![Vendas mensais](images/vendas_mensais.png)
+Vendas mensais: ![Vendas mensais](images/vendas.png)
 
 ## Como executar
 
