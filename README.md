@@ -22,7 +22,7 @@ analise-vendas/
 │   ├── faturamento_cidade.png
 │   ├── faturamento_categoria.png
 │   ├── pagamentos.png
-│   └── vendas_mensais.png
+│   └── vendas.png
 │
 ├── src/
 │   ├── __init__.py
