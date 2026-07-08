@@ -87,6 +87,7 @@ Abra o notebook:
 jupyter notebook analise_loja.ipynb
 ```
 
+## Conclusão
 
 A análise permitiu identificar os produtos com maior volume de vendas, as cidades responsáveis pelo maior faturamento, as categorias com maior faturamento, a distribuição das formas de pagamento e o comportamento do faturamento ao longo dos meses, fornecendo uma visão geral do desempenho da loja.
 
