@@ -32,11 +32,11 @@ analise-vendas/
 │   ├── analises.py
 │   └── visualizacao.py
 │
-├── analise_vendas.ipynb
-├── README.md
-├── requirements.txt
+├── .gitignore
+├── analise_loja.ipynb
 ├── LICENSE
-└── .gitignore
+├── README.md
+
 ```
 
 ## Análises realizadas
@@ -76,7 +76,7 @@ Vendas mensais: ![Vendas mensais](images/vendas_mensais.png)
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/data-sales-project.git
+git clone https://github.com/seu-usuario/analise-vendas.git
 ```
 
 Instale as dependências:
